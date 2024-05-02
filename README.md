@@ -1,6 +1,11 @@
-# tonlama-botreff
+# Ton $Lama BOT Reff
+
 Auto reff with fake address TON $LAMA
-<hr>
+
+## Require
+```bash
+NodeJS & NPM
+```
 
 ## Installation
 
